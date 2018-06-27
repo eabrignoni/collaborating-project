@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
         <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     </head>
+    
     <body>
         <!-- Navigation + Big Promotional Content (Jumbotron) -->
         <?php require_once "team5.html";?>
